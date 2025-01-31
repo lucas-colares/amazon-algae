@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/XQQHF17.png)
+![alt text](https://i.imgur.com/uhFEmop.png)
 # Amazon Algae  
 
 ## Overview  
