@@ -1,6 +1,6 @@
 # Amazon Algae  
 
-![alt text]([http://url/to/img.png](https://instagram.fbel16-1.fna.fbcdn.net/v/t51.2885-19/452513934_781728870521731_1702640112286365964_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=instagram.fbel16-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=VxITEiQIyesQ7kNvgGL41r6&_nc_gid=6536331be91142e48dd7a842796dcf01&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AYBHCzErel_BpXZsWYh2AOM_9x-EYWFiAyf_Ep42OW2P1Q&oe=67A2A8BA&_nc_sid=7a9f4b))
+![alt text](https://i.imgur.com/i68N8V5.jpeg)
 
 ## Overview  
 
