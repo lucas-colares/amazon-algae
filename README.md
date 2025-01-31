@@ -1,5 +1,5 @@
 ![alt text](https://i.imgur.com/uhFEmop.png)
-# Amazon Algae  
+# Amazon Algae repository 🧪🟢🧫 
 
 ## Overview  
 
