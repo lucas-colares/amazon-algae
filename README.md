@@ -45,7 +45,7 @@ Contains the R scripts for data analysis:
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/amazon-algae.git  
+   git clone https://github.com/lucas-colares/amazon-algae.git  
    ```  
 2. Open `AlgaeProj #1.Rproj` in RStudio.  
 3. Run `00. setup.R` to set up the analysis environment.  
